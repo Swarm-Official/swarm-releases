@@ -16,13 +16,13 @@ Everything SWARM runs is open source. The chain reuses Zcash's software with **n
 
 | Component | Repository | Based on |
 | --- | --- | --- |
-| Node (consensus, mining) | https://github.com/brs-holding/privacy-zebra | Zebra 6.3.0 by the Zcash Foundation |
-| Wallet server (indexer) | https://github.com/brs-holding/privacy-zaino | Zaino by ZingoLabs |
-| Wallet SDK | https://github.com/brs-holding/privacy-zingolib | zingolib by ZingoLabs |
-| Desktop wallet | https://github.com/brs-holding/privacy-wallet | Zingo PC by ZingoLabs |
-| Mobile wallet (Android, iOS) | https://github.com/brs-holding/swarm-mobile | Zingo Mobile by ZingoLabs |
-| Block explorer | https://github.com/brs-holding/swarm-explorer | zcash-explorer (Nighthawk lineage) |
-| Server stack | https://github.com/brs-holding/privacy-z3 | Z3 |
-| Downloads (this repository) | https://github.com/brs-holding/swarm-releases | — |
+| Node (consensus, mining) | https://github.com/Swarm-Official/privacy-zebra | Zebra 6.3.0 by the Zcash Foundation |
+| Wallet server (indexer) | https://github.com/Swarm-Official/privacy-zaino | Zaino by ZingoLabs |
+| Wallet SDK | https://github.com/Swarm-Official/privacy-zingolib | zingolib by ZingoLabs |
+| Desktop wallet | https://github.com/Swarm-Official/privacy-wallet | Zingo PC by ZingoLabs |
+| Mobile wallet (Android, iOS) | https://github.com/Swarm-Official/swarm-mobile | Zingo Mobile by ZingoLabs |
+| Block explorer | https://github.com/Swarm-Official/swarm-explorer | zcash-explorer (Nighthawk lineage) |
+| Server stack | https://github.com/Swarm-Official/privacy-z3 | Z3 |
+| Downloads (this repository) | https://github.com/Swarm-Official/swarm-releases | — |
 
-The mining app SWARM Node and the website are published as builds here and on https://swarm.green; their source repositories open with the public hive.
+The mining app SWARM Node and the website live in the same organisation (https://github.com/Swarm-Official); their source repositories open with the public hive.
